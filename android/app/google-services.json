@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521633258919",
+    "firebase_url": "https://esp32-firebase-demo-c95d6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-firebase-demo-c95d6",
+    "storage_bucket": "esp32-firebase-demo-c95d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521633258919:android:1f1efb1ce64ea81467aa82",
+        "android_client_info": {
+          "package_name": "com.forecastingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521633258919-4fu54b8ihjf2sfmpvbeea5g70nglm3mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9KSLq1AO2M3VdUjXnKa14VZm_hojj3Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521633258919-4fu54b8ihjf2sfmpvbeea5g70nglm3mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
